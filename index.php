@@ -7,7 +7,11 @@
     <title>Document</title>
 
     <style>
-        body {
+
+        * {
+            box-sizing: border-box;
+        }        
+            body {
             font-family: Arial;
             margin: 0;
             
@@ -47,6 +51,10 @@
            background-color: white ;
            color: #ed9121;
        }
+       .row {
+           padding: 0 20px;
+
+       }
     </style>
 </head>
 <body>
@@ -63,7 +71,7 @@
                 </ul>
             </nav>    
     </Header>
-    
+    <div class="row">
         <main>
            <?php
             if (isset($_GET["pagina"]) && !empty($_GET["pagina"])) {
@@ -72,10 +80,13 @@
             } else {
                 //include ("Home.php");
                 echo "Pagina Principal";
-
             }
            ?>
+          
+
+           
         </main>
+        </div>
         <aside>
             barra lateral
         </aside>
@@ -85,4 +96,5 @@
 
 </body>
 </html># back-end-i
+# back-end-i
 # back-end-i
