@@ -82,9 +82,7 @@
                 echo "Pagina Principal";
             }
            ?>
-          
-
-           
+                     
         </main>
         </div>
         <aside>
@@ -96,5 +94,6 @@
 
 </body>
 </html># back-end-i
+# back-end-i
 # back-end-i
 # back-end-i

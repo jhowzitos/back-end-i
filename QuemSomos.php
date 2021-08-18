@@ -1,9 +1,5 @@
 
-<Style>
-    img {
-
-    }
-</Style>
+>
 <section>
     <article>
         <h2>TUDO SOBRE NÓS</h2>
