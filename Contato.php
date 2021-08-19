@@ -85,32 +85,36 @@
     input + span::before {
         position: absolute;
         right: 10px;
-         left: 635px;
+         left: 620px;
          top: -40px;
     }
     textarea + span::before {
         position: absolute;
         right: 10px;
-         left: 635px;
+         left: 620px;
          top: -80px;    
     }
 </STYle>
 <h2>C O N T A T O S</h2>
 <section>
     <article>
-        <div class="exemplo-relative">
-            <form classe="card">
+        <div class="row">
+            <form action="https://api.staticforms.xyz/submit" method="POST" classe="card">
+            <input type="hidden" name="accessKey" value="b31a59d2-c1d0-406c-a7a0-4e777b92115b">
+            <input type="hidden" name="redirectTo" value="http://localhost/back-end-i/index.php?pagina=Contato.php">
+
                 <label for="inputNome">Nome:</label>
-                <input type="text" id="inputNome" required>
+                <input type="text" id="inputNome" name="name" required>
                 <span></span>
 
                 <label for="inputEmail">Email:</label>
-                <input type="Email" id="inputEmail"required>
+                <input type="Email" id="inputEmail" name="email" required>
                 <span></span>
 
                 <label for="textareaMensagem">Mensagem:</label>
-              <textarea name="textareaMensagem" id="textareaMensagem" required></textarea>
+              <textarea name="message" id="textareaMensagem" required></textarea>
                 <span></span>
+
               <button>Enviar Mensagem</button>
             </form>
         </div>
