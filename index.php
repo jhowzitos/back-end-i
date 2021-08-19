@@ -50,10 +50,12 @@
        header nav a:hover {
            background-color: white ;
            color: #ed9121;
+
        }
        .row {
            padding: 0 20px;
-
+           display: table;
+           width: 100%;
        }
     </style>
 </head>
@@ -94,6 +96,7 @@
 
 </body>
 </html># back-end-i
+# back-end-i
 # back-end-i
 # back-end-i
 # back-end-i
