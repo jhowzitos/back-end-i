@@ -120,10 +120,5 @@
         </div>
    
     </article>
-    <article>
-        parte 2 
-    </article>
-    <article>
-        parte 3 
-    </article>
+
 </section>
