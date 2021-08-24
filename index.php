@@ -72,19 +72,23 @@
                         <li><a href="index.php?pagina=Localização.php">Localização</a></li>
                 </ul>
             </nav>    
+
+
     </Header>
     <div class="row">
         <main>
-           <?php
+      
+   
+   <?php
             if (isset($_GET["pagina"]) && !empty($_GET["pagina"])) {
                 $pagina = $_GET["pagina"];
                 include ($pagina);
             } else {
-                //include ("Home.php");
-                echo "Pagina Principal";
+                include ("Home.php");
+                
             }
            ?>
-                     
+
         </main>
         </div>
         <aside>
@@ -102,6 +106,7 @@
 # back-end-i
 # back-end-i
 
+# back-end-i
 # back-end-i
 # back-end-i
 # back-end-i
