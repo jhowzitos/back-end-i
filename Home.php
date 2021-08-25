@@ -35,17 +35,28 @@
     <H2>DOCE DE LEITE NINHO</H2>
         <img src="imagens/DoceLeiteNinho.png" alt="Doce De Leite Ninho" width="30%">
         <p>
-        O Melhor Doce de Mamão do mundo esta aqui
+        Apesar de isto não ser exatamente comprovado, existem diversas teorias que alegam que a quantidade de receitas de doces usando leite em pó aumentou depois que diversos programas governamentais começaram a distribuir leite em pó nas escolas públicas como parte de programas de auxílio, como o Leve Leite, em São Paulo. Desde o principio, muitas mães usaram este leite que vinha da escola para diversos usos culinários, algumas vezes por que eles não eram tão saborosos puros.
         </p>
         <li><a href="index.php?pagina=DoceLeiteNinho.php"><button>Veja Mais</button></a></li>
     </article>
 
     <article>
-        imagem 5
+    <H2>DOCE DE LEITE </H2>
+        <img src="imagens/DoceDeLeite.png" alt="Doce De Leite" width="30%">
+        <p>
+        A origem do doce de leite é incerta, mas está ligada à rápida expansão na produção de sacarose de cana-de-açúcar nas ilhas ibéricas atlânticas, no século XV, e no Brasil, América Central e Antilhas a partir do século XVI e à possibilidade de seu uso para preservação do leite.
+        </p>
+        <li><a href="index.php?pagina=DoceDeLeite.php"><button>Veja Mais</button></a></li>
     </article>
 
     <article>
-        imagem 6
+    <H2>DOCE DE GOIABADA</H2>
+        <img src="imagens/GOIBADA.PNG" alt="Doce de Mamao" width="30%">
+        <p>
+        A goiabada surgiu no Brasil quando foi usada pelos colonos portugueses como substituto para confecionar a marmelada. ... A maior parte da produção de goiaba e goiabada do Brasil se encontra no estado de São Paulo, sendo a Predilecta a maior processadora do fruto.
+        </p>
+        <li><a href="index.php?pagina=Goiabada.php"><button>Veja Mais</button></a></li>
+
     </article>
          
 
