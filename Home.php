@@ -32,7 +32,12 @@
     </article>
 
     <article>
-        imagem 4
+    <H2>DOCE DE LEITE NINHO</H2>
+        <img src="imagens/DoceLeiteNinho.png" alt="Doce De Leite Ninho" width="30%">
+        <p>
+        O Melhor Doce de Mamão do mundo esta aqui
+        </p>
+        <li><a href="index.php?pagina=DoceLeiteNinho.php"><button>Veja Mais</button></a></li>
     </article>
 
     <article>
