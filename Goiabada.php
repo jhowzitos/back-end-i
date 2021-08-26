@@ -31,7 +31,7 @@
     <button>COMPRAR</button>
    
          
-    <ul>
+    <ol>
     <h3>IGREDIENTES</h3>
         <li>1 kg de goiabas maduras</li><br>
         <li>500 g de açúcar refinado</li><br>
@@ -39,6 +39,6 @@
     <p>
     </p>
        
-    </ul>
+    </ol>
     </div>
 </P>

@@ -1,7 +1,7 @@
 
->
+<div class="row">
 <section>
-    <article>
+    <article class="cards">
         <h2>TUDO SOBRE NÓS</h2>
     <img src="imagens/quemsomosCASAL.png" alt="seu ze e dona maria" width="25%">
     <h3>O INICIO</h3>
@@ -35,3 +35,4 @@ Fizesse o mesmo pelos seus filhos.
       <img src="imagens/JOSEcarlosBENEDITO.png" alt="ze benedito" width="25%">
     </article>
 </section>
+</div>
