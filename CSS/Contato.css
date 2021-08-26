@@ -1,10 +1,10 @@
 
   
   
-  h2 {
+  h4 {
         FONT-SIZE: 50PX;
         text-align: center;
-        color: #ed9121;
+       
         text-shadow: 0 4px 8px black;
         width: 50%;
         margin: 10px auto;
@@ -20,7 +20,7 @@
     .card {
         
         background-color: white;
-        color:  #ed9121;
+    
         margin: auto;
         padding: 20px 20px;
         margin-top: 20px;      

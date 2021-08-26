@@ -13,33 +13,48 @@
         color: white;
         cursor: pointer; 
     }
+
+
+
      
 </STYle>
+
+
 <h2>RECEITA DE GOIABADA</h2>
         <img src="imagens/GOIBADA.PNG" alt="Doce De Goiabada " width="30%">
 
- <P>  
-    <div class="row">
-        <h2>PREÇO</h2>
-        <Ul>
-          
-            <input type="radio" name="webmaster" value="Pote Pequeno -   500G   R$7.50"/> Pote Pequeno -   500G   R$7.50<br />
-            <input type="radio" name="webmaster" value="Pote Medio   -   2kG    R$21.50"/> Pote Medio   -   2kG    R$21.50<br />    
-            <input type="radio" name="webmaster" value="Pote Normal  -   1kG    R$14.00 "/> Pote Normal  -   1kG    R$14.00 <br />
-            <input type="radio" name="webmaster" value="Pote Grande  -   5kg    R$ 50.00"/> Pote Grande  -   5kg    R$ 50.00
-            
-        </Ul>
-    <button>COMPRAR</button>
+ <P> 
+ </P>
    
-         
+
+      
+        <h2>PREÇO</h2>
+         <ul>
+            <li> Pote Pequeno -   500G    R$7.50 <input type="checkbox"></li> 
+            <li>Pote Medio   -   2kG    R$21.50  <input type="checkbox"></li>  
+            <li>Pote Normal  -   1kG    R$14.00 <input type="checkbox"></li> 
+            <li>Pote Grande  -   5kg    R$50.00 <input type="checkbox"></li>
+        </ul>
+            <p>
+            </p>      
+    <button>COMPRAR</button>
+        
+ 
+   <p>
+       
+   </p>
+      
     <ol>
     <h3>IGREDIENTES</h3>
         <li>1 kg de goiabas maduras</li><br>
         <li>500 g de açúcar refinado</li><br>
         <li>150 ml de água</li><br>
+    </ol>
     <p>
     </p>
-       
-    </ol>
+ 
     </div>
-</P>
+       
+   
+    
+

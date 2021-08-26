@@ -66,6 +66,7 @@ section {
     padding: 0 20px;
     margin-top: 5 px;
     display: table;
+    overflow: hidden;
            }
 .cards {
     background-color: white;

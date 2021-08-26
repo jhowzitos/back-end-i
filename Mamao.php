@@ -19,15 +19,16 @@
         <img src="imagens/Mamao.png" alt="Doce de Mamao" width="30%">
 
  <P>  
-    <div class="receita">
+
         <h2>PREÇO</h2>
-        <Ul>
-            <LI>Pote Pequeno -   500G   R$7.50 <button>SELECIONAR</button></LI>
-            <LI>Pote Normal  -   1kG    R$14.00 <button>SELECIONAR</button></LI>
-            <LI>Pote Medio   -   2kG    R$21.50 <button>SELECIONAR</button></LI>
-            <LI>Pote Grande  -   5kg    R$ 50.00 <button>SELECIONAR</button></LI>
-        
-        </Ul>
+        <ul>
+            <li> Pote Pequeno -   500G    R$7.50 <input type="checkbox"></li> 
+            <li>Pote Medio   -   2kG    R$21.50  <input type="checkbox"></li>  
+            <li>Pote Normal  -   1kG    R$14.00 <input type="checkbox"></li> 
+            <li>Pote Grande  -   5kg    R$50.00 <input type="checkbox"></li>
+        </ul>
+            <p>
+            </p>      
     <button>COMPRAR</button>
    
          
@@ -42,5 +43,5 @@
     </p>
        
     </ul>
-    </div>
+ 
 </P>
