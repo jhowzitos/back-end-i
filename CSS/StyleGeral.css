@@ -49,8 +49,11 @@ nav a:hover {
 .row {
     padding: 0 20px;
     display: table;
-   
-   
+}
+.rowS {
+    padding: 0 20px;
+    display: table;
+    width: 400%;
 }
 section {
     float: left;
@@ -91,3 +94,5 @@ section {
      color: Darkorange;
      margin-left: 0;
  }
+
+ 
